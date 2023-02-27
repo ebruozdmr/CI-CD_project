@@ -2,7 +2,7 @@
   "name": "the-weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ebruozdmr.github.io/dev-CI-ebru-ozdemir",
+  "homepage": "https://ebruozdmr.github.io/CI-CD_react_project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
