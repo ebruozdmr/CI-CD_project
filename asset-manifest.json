@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CI-CD_project/static/css/main.a3e3dc68.css",
+    "main.js": "/CI-CD_project/static/js/main.f2eac36f.js",
+    "index.html": "/CI-CD_project/index.html",
+    "main.a3e3dc68.css.map": "/CI-CD_project/static/css/main.a3e3dc68.css.map",
+    "main.f2eac36f.js.map": "/CI-CD_project/static/js/main.f2eac36f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e3dc68.css",
+    "static/js/main.f2eac36f.js"
+  ]
+}
