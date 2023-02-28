@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CI-CD_project/static/css/main.0bd1135a.css",
-    "main.js": "/CI-CD_project/static/js/main.2b435aa3.js",
+    "main.js": "/CI-CD_project/static/js/main.2d1106da.js",
     "index.html": "/CI-CD_project/index.html",
     "main.0bd1135a.css.map": "/CI-CD_project/static/css/main.0bd1135a.css.map",
-    "main.2b435aa3.js.map": "/CI-CD_project/static/js/main.2b435aa3.js.map"
+    "main.2d1106da.js.map": "/CI-CD_project/static/js/main.2d1106da.js.map"
   },
   "entrypoints": [
     "static/css/main.0bd1135a.css",
-    "static/js/main.2b435aa3.js"
+    "static/js/main.2d1106da.js"
   ]
 }
