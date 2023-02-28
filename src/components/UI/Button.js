@@ -4,7 +4,7 @@ const Button = () => {
   const ctx = useContext(WeatherContext)
   return (
     <button type="submit" onClick={ctx.fetchResultsHandler}>
-      Ara
+      Araaaaa
     </button>
   )
 }
