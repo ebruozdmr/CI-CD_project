@@ -1,4 +1,4 @@
-import '../../../dist/css/WeatherName.css'
+import '../../../style/WeatherName.css'
 const WeatherName = (props) => {
   return <li className="list">{props.name}</li>
 }

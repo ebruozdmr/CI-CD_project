@@ -20,14 +20,14 @@ input {
 
 input:focus {
   outline: none;
-  border-color: #230052;
+  border-color: #457B9D;
 }
 
 button {
   font: inherit;
   cursor: pointer;
-  background: #230052;
-  border: 1px solid #230052;
+  background: #457B9D;
+  border: 1px solid #457B9D;
   color: white;
   padding: 0.75rem 2rem;
   margin-top: 1rem;
@@ -41,8 +41,8 @@ button:focus {
 
 button:hover,
 button:active {
-  background-color: #460897;
-  border-color: #460897;
+  background-color: #1D3557;
+  border-color: #1D3557;
 }
 
 h2 {

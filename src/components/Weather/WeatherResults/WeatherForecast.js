@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../../../dist/css/WeatherForecast.css'
+import '../../../style/WeatherForecast.css'
 
 const WeatherForecast = (props) => {
   return (

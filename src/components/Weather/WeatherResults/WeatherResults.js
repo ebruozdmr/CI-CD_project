@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import '../../../dist/css/WeatherResults.css'
+import '../../../style/WeatherResults.css'
 import WeatherContext from '../../../context/WeatherContext'
 import WeatherForecast from './WeatherForecast'
 import WeatherName from './WeatherName'

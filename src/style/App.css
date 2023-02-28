@@ -6,7 +6,8 @@ section {
   background-color: white;
   padding: 2.1rem;
   padding-bottom: 1rem;
-  border-radius: 6px; }
+  border-radius: 6px;
+}
 
 input {
   display: block;
@@ -14,30 +15,36 @@ input {
   font: inherit;
   padding: 0.5rem;
   border-radius: 6px;
-  border: 1px solid #ccc; }
+  border: 1px solid #ccc;
+}
 
 input:focus {
   outline: none;
-  border-color: #58a7bc; }
+  border-color: #457B9D;
+}
 
 button {
   font: inherit;
   cursor: pointer;
-  background:lightblue;
-  border: 1px solid lightblue;
+  background: #457B9D;
+  border: 1px solid #457B9D;
   color: white;
   padding: 0.75rem 2rem;
   margin-top: 1rem;
   /* 1rem = 16px */
-  border-radius: 6px; }
+  border-radius: 6px;
+}
 
 button:focus {
-  outline: none; }
+  outline: none;
+}
 
 button:hover,
 button:active {
-  background-color: #460897;
-  border-color: #460897; }
+  background-color: #1D3557;
+  border-color: #1D3557;
+}
 
 h2 {
-  margin-left: 5px; }
+  margin-left: 5px;
+}/*# sourceMappingURL=App.css.map */
